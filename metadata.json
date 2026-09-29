@@ -1,0 +1,6 @@
+{
+  "name": "AgriN & Regenerative Agricultural Intelligence",
+  "description": "Multilingual AI-powered agricultural intelligence platform connecting farmer feedback with soil, water, climate, and infrastructure data for evidence-based development planning and regenerative agriculture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
